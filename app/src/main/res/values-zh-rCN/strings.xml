@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">扫雷</string>
+    <!--Success dialog info-->
+    <string name="success">恭喜你！通关啦！！！</string>
+    <string name="next">继续</string>
+    <string name="exit">退出</string>
+
+    <!--Fail dialog info-->
+    <string name="fail">踩到雷区了！</string>
+
+    <!--Game Play Info-->
+    <string name="gameinfotitles">游戏说明</string>
+    <string name="gameinfomsg">根据数字推测所有雷区位置，即可通关！</string>
+    <string name="gamebegin">开始游戏</string>
+
+</resources>

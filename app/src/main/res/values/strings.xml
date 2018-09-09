@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MinesClear</string>
+    <!--Success dialog info-->
+    <string name="success">Congratulations! you won !</string>
+    <string name="next">Go On</string>
+    <string name="exit">Exit</string>
+
+    <!--Fail dialog info-->
+    <string name="fail">Sorry, you fail！</string>
+
+    <!--Game Play Info-->
+    <string name="gameinfotitles">Game Info</string>
+    <string name="gameinfomsg">Please find of mines by display num.</string>
+    <string name="gamebegin">Play</string>
 </resources>
